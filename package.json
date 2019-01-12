@@ -1,0 +1,14 @@
+{
+  "name": "bearbot",
+  "version": "1.0.0",
+  "description": "a twitter bot posting random bear pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuf Ekrem Keçilioğlu",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
