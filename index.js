@@ -15,7 +15,7 @@ fs.readdir(dir, (err, files) => {
 
     setInterval(()=>{
         upload_random_bear(images)
-    },3600000)
+    },3600000*2)
     }
 });
 
